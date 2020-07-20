@@ -1,0 +1,44 @@
+Pokecard-
+    -Pokemon Id
+    -Pokemon Name
+    -Pokemon Types
+    -Pokemon Image
+
+
+PokemonInfo-
+    -Id -given
+    -Height - https://pokeapi.co/api/v2/pokemon/id
+    -Weight - https://pokeapi.co/api/v2/pokemon/id
+    -Abilities - https://pokeapi.co/api/v2/pokemon/id
+    -Type - https://pokeapi.co/api/v2/pokemon/id
+    -Forms - https://pokeapi.co/api/v2/pokemon-form/id/
+    -genera - https://pokeapi.co/api/v2/pokemon-species/id/
+
+    -stats- https://pokeapi.co/api/v2/pokemon/id
+
+    -Evolutions(if any); 
+    https://pokeapi.co/api/v2/evolution-chain/id/
+
+    flavor-text: https://pokeapi.co/api/v2/pokemon-species/id/
+
+    -Breeding Info
+    {
+        Egg group - https://pokeapi.co/api/v2/pokemon-species/id/
+        gender distribution - https://pokeapi.co/api/v2/pokemon-species/id/  (gender-rate)
+        egg cycles- https://pokeapi.co/api/v2/pokemon-species/id/   (hatch-counter)
+    }
+
+    Type Effectiveness
+    {
+        xEffectiveness - https://pokeapi.co/api/v2/type/type-id/
+    }
+
+    -Movepools - https://pokeapi.co/api/v2/pokemon/id
+    {
+        By level Up- https://pokeapi.co/api/v2/pokemon/id
+        By TM/HM(machine)- https://pokeapi.co/api/v2/pokemon/id
+        By Egg- https://pokeapi.co/api/v2/pokemon/id
+        By Tutor- https://pokeapi.co/api/v2/pokemon/id
+    }
+
+    

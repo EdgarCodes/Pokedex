@@ -1,0 +1,79 @@
+
+.lds-ring {
+    display: block;
+    position: relative;
+    width: 320px;
+    height: 350px;
+    margin: 3rem auto;
+    text-align: center;
+    transition: ease-in-out;
+  }
+
+  .lds-ring div {
+    box-sizing: border-box;
+    display: block;
+    position: absolute;
+    width: 320px;
+    height: 320px;
+    margin: 8px;
+    border: 15px solid rgb(85, 85, 85);
+    border-radius: 50%;
+    animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+    border-color: rgb(255, 62, 62) transparent transparent transparent;
+  }
+  .lds-ring div:nth-child(1) {
+    animation-delay: -0.45s;
+  }
+  .lds-ring div:nth-child(2) {
+    animation-delay: -0.3s;
+  }
+  .lds-ring div:nth-child(3) {
+    animation-delay: -0.15s;
+  }
+  @keyframes lds-ring {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+ }
+
+ .lds-ring p
+ {
+     font-size: 50px;
+     font-family: 'Roboto Condensed', sans-serif;
+ }
+
+ .pokeball
+ {
+    margin: 1rem;
+    animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+    height: 300px;
+ }
+
+ @media(max-width: 800px) {
+  .lds-ring {
+    width: 300px;
+    height: 300px;
+  }
+
+  .lds-ring div 
+  {
+    width: 200px;
+    height: 200px;
+    margin: .75rem 3.1rem;
+  }
+
+  .lds-ring p
+  {
+    font-size: 20px;
+  }
+
+  .pokeball
+  {
+    margin: 1rem;
+    height: 190px;
+  }
+}
+  

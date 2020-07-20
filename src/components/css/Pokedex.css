@@ -1,0 +1,57 @@
+.Pokedex
+{
+    width: 1300px;
+    max-width: 90%;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.Pokedex-random
+{
+    display: block;
+    cursor: pointer;
+    background-color: rgb(248, 94, 94);
+    color: white;
+    width: 15%;
+    padding: .5rem 0;
+    font-weight: 100;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+}
+
+.Pokedex-random:hover
+{
+    transform: scale(.98);
+}
+
+.header
+{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  color: grey;
+  background-color: rgb(255, 255, 255);
+  height: 4rem;
+  margin-bottom: 1rem;
+  width: 80%;
+  margin: auto;
+  border-bottom: 1px grey solid;
+}
+
+
+.header h1
+{
+    font-weight: 300;
+}
+
+
+@media(max-width: 800px) {
+    /* For mobile phones: */
+    .header a
+    {
+        font-size: 13px;
+        width: 80px;
+        width: 100%;
+    }
+}
