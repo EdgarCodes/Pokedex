@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3736519d.chunk.css",
+    "main.js": "/static/js/main.d0ab4e79.chunk.js",
+    "main.js.map": "/static/js/main.d0ab4e79.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.54a2cc93.js",
+    "runtime-main.js.map": "/static/js/runtime-main.54a2cc93.js.map",
+    "static/js/2.a20945a0.chunk.js": "/static/js/2.a20945a0.chunk.js",
+    "static/js/2.a20945a0.chunk.js.map": "/static/js/2.a20945a0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.70e4cc323e871ea2998b34fe1cdf1c39.js": "/precache-manifest.70e4cc323e871ea2998b34fe1cdf1c39.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3736519d.chunk.css.map": "/static/css/main.3736519d.chunk.css.map",
+    "static/js/2.a20945a0.chunk.js.LICENSE.txt": "/static/js/2.a20945a0.chunk.js.LICENSE.txt",
+    "static/media/PokemonTypes_01.png": "/static/media/PokemonTypes_01.9796cb99.png",
+    "static/media/PokemonTypes_02.png": "/static/media/PokemonTypes_02.c5a34105.png",
+    "static/media/PokemonTypes_03.png": "/static/media/PokemonTypes_03.aea01696.png",
+    "static/media/PokemonTypes_04.png": "/static/media/PokemonTypes_04.fd993181.png",
+    "static/media/PokemonTypes_05.png": "/static/media/PokemonTypes_05.a057848e.png",
+    "static/media/PokemonTypes_06.png": "/static/media/PokemonTypes_06.b9bd5557.png",
+    "static/media/PokemonTypes_07.png": "/static/media/PokemonTypes_07.69f00541.png",
+    "static/media/PokemonTypes_08.png": "/static/media/PokemonTypes_08.f5f0d58c.png",
+    "static/media/PokemonTypes_09.png": "/static/media/PokemonTypes_09.90a34e07.png",
+    "static/media/PokemonTypes_10.png": "/static/media/PokemonTypes_10.5d3ffdcf.png",
+    "static/media/PokemonTypes_11.png": "/static/media/PokemonTypes_11.d59e3ea5.png",
+    "static/media/PokemonTypes_12.png": "/static/media/PokemonTypes_12.2af032e1.png",
+    "static/media/PokemonTypes_13.png": "/static/media/PokemonTypes_13.6003c445.png",
+    "static/media/PokemonTypes_14.png": "/static/media/PokemonTypes_14.ec07f7fd.png",
+    "static/media/PokemonTypes_15.png": "/static/media/PokemonTypes_15.992f3920.png",
+    "static/media/PokemonTypes_16.png": "/static/media/PokemonTypes_16.62707948.png",
+    "static/media/PokemonTypes_17.png": "/static/media/PokemonTypes_17.35711eaa.png",
+    "static/media/PokemonTypes_18.png": "/static/media/PokemonTypes_18.a07ccb67.png",
+    "static/media/pokeball.png": "/static/media/pokeball.174f6be2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54a2cc93.js",
+    "static/js/2.a20945a0.chunk.js",
+    "static/css/main.3736519d.chunk.css",
+    "static/js/main.d0ab4e79.chunk.js"
+  ]
+}
